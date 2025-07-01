@@ -21,3 +21,11 @@ pypdf
 bs4
 arxiv
 langchain_groq
+duckduckgo-search
+youtube_transcript_api
+unstructured
+pytube
+validators==0.28.1
+mysql-connector-python
+SQLAlchemy
+numexpr
